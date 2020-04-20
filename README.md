@@ -1,5 +1,5 @@
 <h1 align="center"> Desafio01 NodeJS </h1>
-<span> Aplicação que armazena projetos e tarefas. </span>
+<p> Aplicação que armazena projetos e tarefas. </p>
 ## Recursos utilizados: 
   - Nodejs
   - Express
